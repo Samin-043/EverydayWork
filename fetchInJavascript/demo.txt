@@ -1,0 +1,34 @@
+let button=document.getElementById('btn');
+let newImage=document.getElementById('image');
+
+
+button.addEventListener('click' ,function() {
+    fetchData();
+});
+
+
+function fetchData() {
+    url = 'https://dog.ceo/api/breeds/image/random';
+    try {
+        fetch(url)
+            .then(function (response){
+                return response.json();   
+            })
+            .then(function(data){
+                displayImage(data.message);
+            })
+    }
+    catch {
+        console.log('File missing');
+    }
+}
+
+function displayImage(image){
+    newImage.scr=image;
+}
+
+
+
+
+
+
