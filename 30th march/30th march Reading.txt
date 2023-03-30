@@ -1,0 +1,17 @@
+1. create HTML elements based on data.
+2. single page application - Modern web application all are single page application.
+3. Routing,Route parameter, Routing in react. - সিঙ্গেল পেজ অ্যাপ্লিকেশন এ রাউটিং এর নাম এ  একটা অংশ  আছে যে ইউসার এর উপরে নির্ভর করে পরিবর্তন হয়
+
+js properties called props.
+
+## Web state : web application data that could change.
+
+1. components - 4
+2. Dynamically create HTML elements based on data
+3. SPA - single page application vs multipage 	    application
+4. Routing - Define the url and based on the url             set different parts of the website.
+
+
+
+
+
