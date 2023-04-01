@@ -1,0 +1,16 @@
+#newCategoryId{
+    text-decoration: none;
+    color: #00000094;
+}
+
+#listSection{
+    margin-top: 2rem;
+}
+
+#countryShow{
+    margin: 1rem;
+    border-style: groove;
+    border-radius: 5px;
+    
+}
+
