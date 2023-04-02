@@ -6,7 +6,13 @@ js properties called props.
 
 ## Web state : web application data that could change.
 
-1. components - 4
+1. components - 4 
+ # Similiar in look but different in data
+ # container component
+ # no common pattern but breakdown for working purpose
+ # Stand-alone component
+  
+  
 2. Dynamically create HTML elements based on data
 3. SPA - single page application vs multipage 	    application
 4. Routing - Define the url and based on the url             set different parts of the website.
